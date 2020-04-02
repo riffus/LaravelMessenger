@@ -1,10 +1,10 @@
 {
-    "name":        "arcanedev/laravel-messenger",
+    "name":        "riffus/laravel-messenger",
     "description": "Simple messaging system for Laravel",
     "keywords":    [
         "arcanedev", "laravel", "messenger", "message", "conversation", "chat", "discussion"
     ],
-    "homepage":    "https://github.com/ARCANEDEV/LaravelMessenger",
+    "homepage":    "https://github.com/riffus/laravelmessenger",
     "authors": [
         {
             "name":     "ARCANEDEV",
